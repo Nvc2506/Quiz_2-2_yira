@@ -11,4 +11,5 @@ Es un sistema de mensajería estándar que permite enviar mensajes de texto que 
 Un token es una representación digital de un activo o utilidad concreta. Este activo puede ser cualquier cosa, desde moneda digital hasta derechos de propiedad sobre algo o acceso a servicios. Incluso una identidad digital concreta.
 5. ◼️ **TECLADO**
 es un dispositivo, ya sea físico o virtual, que funciona como un sistema de entrada para introducir información en un aparato electrónico o musical, mediante un conjunto de teclas que al ser presionadas envían una señal para ejecutar una función.
+6. 🐨 **Least Privilege (Principio de mínimo privilegio)**  Es una práctica de seguridad que otorga a cada usuario, sistema o proceso solo los permisos estrictamente necesarios para cumplir su función, reduciendo la superficie de ataque.
 
